@@ -1,0 +1,160 @@
+2018-07-24 15:11:28,437 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 5808 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:11:28,442 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:11:28,443 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:16:00,423 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 3556 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:16:00,427 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:16:00,430 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:22:27,834 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 6668 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:22:27,838 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:22:27,840 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:23:26,327 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 5908 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:23:26,332 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:23:26,334 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:26:41,465 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 852 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:26:41,470 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:26:41,472 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:29:51,725 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 8140 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:29:51,731 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:29:51,733 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:34:23,655 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 7524 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:34:23,660 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:34:23,662 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:35:57,221 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 6452 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:35:57,225 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:35:57,227 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:47:07,996 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 6212 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:47:08,001 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:47:08,003 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:51:03,898 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 1208 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 15:51:03,903 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 15:51:03,905 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 15:51:05,963 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.397 seconds (JVM running for 3.038)
+2018-07-24 16:06:30,667 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 8356 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:06:30,670 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:06:30,671 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:06:32,371 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 1.983 seconds (JVM running for 2.511)
+2018-07-24 16:17:29,450 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 6352 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:17:29,455 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:17:29,456 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:17:31,629 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.514 seconds (JVM running for 3.183)
+2018-07-24 16:21:54,681 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 7068 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:21:54,686 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:21:54,688 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:21:56,842 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.49 seconds (JVM running for 3.158)
+2018-07-24 16:22:46,181 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 8804 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:22:46,186 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:22:46,188 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:22:48,263 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.413 seconds (JVM running for 3.039)
+2018-07-24 16:25:54,251 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 7124 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:25:54,255 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:25:54,257 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:25:56,933 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 3.045 seconds (JVM running for 3.411)
+2018-07-24 16:28:35,741 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 8628 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:28:35,746 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:28:35,747 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:28:37,817 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.404 seconds (JVM running for 3.065)
+2018-07-24 16:33:40,117 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 8732 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:33:40,124 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:33:40,125 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:33:42,369 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.582 seconds (JVM running for 3.314)
+2018-07-24 16:58:10,157 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 5168 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:58:10,161 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:58:10,163 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:58:12,186 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.366 seconds (JVM running for 3.069)
+2018-07-24 16:58:23,957 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 9192 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 16:58:23,963 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 16:58:23,964 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 16:58:26,007 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.377 seconds (JVM running for 3.025)
+2018-07-24 17:02:53,661 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 5724 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:02:53,667 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:02:53,669 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:02:55,717 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.389 seconds (JVM running for 3.044)
+2018-07-24 17:04:41,929 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 5820 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:04:41,934 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:04:41,936 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:04:44,104 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.5 seconds (JVM running for 3.185)
+2018-07-24 17:05:57,762 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 8804 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:05:57,767 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:05:57,768 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:05:59,909 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.475 seconds (JVM running for 3.117)
+2018-07-24 17:06:13,711 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:06:13,726 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: NewObject(String), 3a36d2@ba25g3##f*0d#2@c01F!!246F##c#3#*26!6F3*##d2b*54c*#0a5#3cF(String), 37992325-4530-42a1-8a32-5c5195bb2bee(String)
+2018-07-24 17:06:13,743 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:07:39,488 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:07:39,490 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: songkai(String), 6a3bdF@g*3424!4234@2c@@F!b2*66#F1562222#3a2g#d6#0d45@4!!5d#*df!*(String), 23031f42-53b8-4066-9ef3-024fd0cf6b1e(String)
+2018-07-24 17:07:39,497 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:09:55,308 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:09:55,310 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: MyBatis(String), 5Fb2dg6gc6bc@3!364!g#b4db2d#b05c51315ac1446c5F@!2F526gc@06a*cd6g(String), 65d91452-a088-4270-8eef-d6974b2b1adc(String)
+2018-07-24 17:09:55,315 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:12:27,127 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:12:27,130 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: (String), 2bb#01a*0b!F@a!50a0a16d0aa050c154b01b*0c6bd*123164!b!*2Fab05642a(String), 0f63bf92-f7e4-4d68-8667-8c2cbab529b7(String)
+2018-07-24 17:12:27,135 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:13:59,625 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:13:59,626 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: admin(String), !F!60@!Fcb@03d4*d0df33#d@*2f034f30@51#030!2dcgc!#!@41320d04f015@(String), 8d5d3434-7e3b-4128-ba84-6d0e313fcba9(String)
+2018-07-24 17:13:59,629 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:20:05,103 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 7320 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:20:05,105 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:20:05,107 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:20:06,826 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 1.995 seconds (JVM running for 2.475)
+2018-07-24 17:21:33,016 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:21:33,029 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: test(String), 50bF4##g3g0!2#0d#01b5!af!c6f#4ab2c3bcd2c05200g2!4!34@c*1b0#0#042(String), 0dafa041-f1ce-4ef5-80ff-591e8adb9d65(String)
+2018-07-24 17:21:33,033 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:23:31,879 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 8288 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:23:31,884 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:23:31,886 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:25:39,688 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 5208 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:25:39,693 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:25:39,694 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:25:41,741 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.372 seconds (JVM running for 3.015)
+2018-07-24 17:26:01,825 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:26:01,840 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: test(String), #F@2db!b12#f##30b55cb144@!22cF26af0F53@g*1463*d!a33*d4c#020#!a#1(String), 470b197f-4fc3-4f96-a943-2e9ae073f8ee(String)
+2018-07-24 17:26:01,843 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:26:19,189 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:26:19,191 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu(String), @5c*#ba5bf1@@F*216cgdFdgd6d15#230*0c!13cad@6bf0!c0da0#1a2d@4160c(String), c419103d-3095-42e3-874c-4f2d27296f3e(String)
+2018-07-24 17:26:19,195 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:30:38,474 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 6408 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:30:38,479 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:30:38,481 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:30:40,550 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.399 seconds (JVM running for 3.024)
+2018-07-24 17:30:59,263 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:30:59,277 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu(String), 33ac*310*32543@db4b#bf45!caa!db@b1!4@b1g01cg20#!3a!0@d2db@056*!d(String), fb095d19-3028-43e9-bd50-76a8ea733f82(String)
+2018-07-24 17:30:59,281 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:31:13,391 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:31:13,393 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu(String), 535504dFbd!abd#52b#3046ca36da5@4523faf6a1f!#@60da343!c34b3b52ac5(String), 43c1ffd0-fb79-4937-b5e1-b2125bdb7262(String)
+2018-07-24 17:31:13,397 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:33:00,267 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:33:00,268 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu(String), 46bb2a3F1F4f0ccFb2!fc6d402@1c020bd10#@0526ab1a4F2#c5@30*cbba2@c6(String), ddd4c09c-717c-4aae-a55c-fbee42ecccff(String)
+2018-07-24 17:33:00,273 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:39:42,277 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 7784 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:39:42,282 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:39:42,285 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:40:02,364 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 788 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:40:02,369 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:40:02,370 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:40:04,512 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.477 seconds (JVM running for 3.106)
+2018-07-24 17:42:07,227 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:42:07,241 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu1(String), 366*26*313dFd5252f04!Fa*aa!0@@dgdb3g!ccf5a2c6fa3#*cc2Fb612#a22!4(String), 5af3dfa7-00cf-4d8c-8b53-bde30b6f0a9a(String)
+2018-07-24 17:42:07,245 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:42:25,650 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:42:25,651 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu2(String), 440g@faf!c@1!F3Fb3!06*1d322#3c!5dd1#2*2g5!523b3Fa*31*0ba!413!f4b(String), 4c0c1edd-8ced-49ad-9205-11fe1d69fb7f(String)
+2018-07-24 17:42:25,654 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:44:23,063 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 5220 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:44:23,067 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:44:23,069 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:44:24,226 DEBUG (GenericFilterBean.java:213)- Initializing filter 'streetFilter'
+2018-07-24 17:44:24,234 DEBUG (GenericFilterBean.java:244)- Filter 'streetFilter' configured successfully
+2018-07-24 17:44:41,717 INFO (StartupInfoLogger.java:50)- Starting LeeluckApplication on ZH-20170418YANW with PID 7060 (D:\Eclipse\eclipse\Leeluck\target\classes started by Administrator in D:\Eclipse\eclipse\Leeluck)
+2018-07-24 17:44:41,722 DEBUG (StartupInfoLogger.java:53)- Running with Spring Boot v2.0.3.RELEASE, Spring v5.0.7.RELEASE
+2018-07-24 17:44:41,723 INFO (SpringApplication.java:659)- No active profile set, falling back to default profiles: default
+2018-07-24 17:44:42,881 DEBUG (GenericFilterBean.java:213)- Initializing filter 'streetFilter'
+2018-07-24 17:44:42,889 DEBUG (GenericFilterBean.java:244)- Filter 'streetFilter' configured successfully
+2018-07-24 17:44:43,833 INFO (StartupInfoLogger.java:59)- Started LeeluckApplication in 2.443 seconds (JVM running for 3.038)
+2018-07-24 17:45:06,532 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:45:06,547 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu123(String), 0@d4b3@#c4b@6F2da@cacd#b63d133bFa*#a5*6bb01*@241cbaa@4c2cc4#d4dg(String), 9cd7d6cb-b673-4f67-bdb1-d9c4ee138924(String)
+2018-07-24 17:45:06,549 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:47:49,248 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:47:49,250 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu123(String), 5@#*ab4g2a25c5a4!!1b411F50@c2d631F##aac4b2005*064!@452@6a04b3b02(String), 2791c97b-0be0-4315-9a7b-2e385e6457eb(String)
+2018-07-24 17:47:49,254 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
+2018-07-24 17:47:56,866 DEBUG (BaseJdbcLogger.java:159)- ==>  Preparing: INSERT INTO usertable(username,password,salt)VALUES(?,?,?) 
+2018-07-24 17:47:56,868 DEBUG (BaseJdbcLogger.java:159)- ==> Parameters: wangwu(String), 0gdb006g@a!50g@36f4F#c@*160F1a0*!!!c4d!41###03d63115bFd1adc31#a4(String), 93a24434-0ddc-4b25-8cea-d8a8cda2a664(String)
+2018-07-24 17:47:56,873 DEBUG (BaseJdbcLogger.java:159)- <==    Updates: 1
