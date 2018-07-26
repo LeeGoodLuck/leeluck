@@ -21,6 +21,12 @@ public class UsertableController {
 	@Autowired
 	private UsertableService usertableserice;
 
+	/**
+	 * 注册
+	 * 
+	 * @param request
+	 * @return
+	 */
 	@RequestMapping("/register")
 	public JsonResult registerInsert(HttpServletRequest request) {
 		JsonResult json = JsonResult.newInstance();
@@ -43,6 +49,13 @@ public class UsertableController {
 			json.failed("FAIL");
 			json.setDate(500);
 		}
+		return json;
+	}
+
+	@RequestMapping("/login")
+	public JsonResult login() {
+		JsonResult json = JsonResult.newInstance();
+		
 		return json;
 	}
 }
