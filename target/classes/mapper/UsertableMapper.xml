@@ -2,8 +2,36 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.luck.mapper.UsertableMapper">
+	<resultMap type="com.luck.entity.Usertable" id="usertablemapper">
+		<id column="id" property="id" />
+		<result column="username" property="username" />
+		<result column="password" property="password" />
+		<result column="salt" property="salt" />
+	</resultMap>
+	<!--新增用户 -->
 	<insert id="InsertRegister" parameterType="map">
 		INSERT INTO
 		usertable(username,password,salt)VALUES(#{username},#{password},#{salt})
 	</insert>
+	<!--登录 -->
+	<select id="LoginUsertable" resultMap="usertablemapper">
+		SELECT
+		id,username,password,salt FROM
+		usertable WHERE
+		username=#{username}
+	</select>
+
+	<!--通过id查询账户的密码、盐 -->
+	<select id="IDQuery" parameterType="java.util.Map" resultType="java.util.Map">
+		SELECT id,username,password,salt FROM usertable WHERE
+		id=#{id}
+	</select>
+
+	<!--修改密码 -->
+	<update id="updatePassword">
+		update usertable
+		set password=#{salttwopassword},
+		salt=#{salt}
+		where id=#{id}
+	</update>
 </mapper>
