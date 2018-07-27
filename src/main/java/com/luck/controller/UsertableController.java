@@ -16,12 +16,15 @@ import com.luck.service.UsertableService;
 import com.luck.tool.JsonResult;
 import com.luck.tool.MD5Util;
 
+import com.fundebug.Fundebug;
+
 @RestController
 @RequestMapping(value = "/usertable")
 public class UsertableController {
 
 	private static final Logger LOGGER = Logger.getLogger(UsertableController.class);
 
+	Fundebug fundebug = new Fundebug("869d90cec893b8638042043ac9b563a661ec619b424c24ed9406125c31b58f89");
 	@Autowired
 	private UsertableService usertableserice;
 
@@ -83,6 +86,12 @@ public class UsertableController {
 		return json;
 	}
 
+	/**
+	 * 修改密码
+	 * 
+	 * @param request
+	 * @return
+	 */
 	@RequestMapping("updatepassword")
 	public JsonResult updatepassword(HttpServletRequest request) {
 		JsonResult json = JsonResult.newInstance();
