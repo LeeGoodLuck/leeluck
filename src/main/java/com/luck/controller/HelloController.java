@@ -11,8 +11,9 @@ public class HelloController {
 	 * @return
 	 */
 	@RequestMapping("login")
-	public String leeluck() {
-		return "hello,Spring boot";
+	public int leeluck() {
+		int i=0/'1';
+		return i;
 	}
 
 }
